@@ -1,0 +1,7 @@
+<project name="aws" default="WAR-build" basedir=".">
+	<description>aws - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
